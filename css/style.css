@@ -1,0 +1,9 @@
+.square-0, .square-1, .square-2{display:inline-block;float:left;}
+.square-1{height:150px;}
+.square-2{height:300px;}
+
+.bg-green{background-color:#003300
+
+   ;}
+div.bg-green{background-color:#333300;}
+p.bg-green{background-color:#00ff99;}
